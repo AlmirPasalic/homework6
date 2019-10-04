@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    float:left;
+       
+}
+header{
+    
+    width:1000px;
+    height:70px;
+    position: absolute;
+    margin-left: 200px;   
+}
+a{
+  color:#63625e;
+  text-decoration: none;
+  display: block;
+  width:100px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+  
+}
+#logo{
+    margin-top: 8px;
+    margin-left: 10px
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow:hidden;
+    margin-left: 280px;
+    margin-top: -40px
+    
+}
+#search{
+    background-color:#d0d4d7;
+    border:none;
+    height: 35px;
+    width:270px;
+    float:right;
+    border-radius: 25px;
+    margin-top: -27px;
+    padding-left: 10px
+}
+
+
+#main{
+    background-image:url("http://tempusaircraft.com/wp-content/uploads/2019/01/105562621-1541696972779gettyimages-686525960.1910x1000.jpeg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 40px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:300px ;
+    padding-top: 50px
+}
+h4{
+    margin-left: 300px
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px
+
+}
+#button{
+    background-color: orange;
+    border:none;
+    height:30px;
+    margin-left: 300px;
+    color:white;
+    border-radius: 15px;
+    padding-left: 10px;
+    width:190px;
+    text-align: left
+  
+}
+hr{
+    width:1000px;
+}
+
+
